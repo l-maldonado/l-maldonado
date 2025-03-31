@@ -17,7 +17,6 @@ I'm a mechatronics engineer with a passion for data analytics and visualization.
 - 💬 Ask me about...
      Python!
 
-## Contact
 - 📫 How to reach me: 
   - [LinkedIn](https://www.linkedin.com/in/lg-maldonado)
   - [Email](mailto:lg.maldonado@outlook.com)
