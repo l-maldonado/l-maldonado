@@ -57,42 +57,51 @@ You can use the website to generate badges: https://shields.io/
 
 </details>
 -->
-| **Domain of Knowledge**        | **Competencies & Skills**         | **Tools**                                | **Techniques**                                         |
-|--------------------------------|-----------------------------------|------------------------------------------|--------------------------------------------------------|
-| **Programming & Development**  | Coding, OOP                       | Python, SQL, Java, C++                   | Debugging, Code Optimization                           |
-|                                | Testing                           | JUnit, PyTest, Selenium, katalon         | Test Automation, Unit Testing, Test Driven Dev.        |
-|                                | Collaboration & Version Control   | Git, GitHub, GitLab                      | Branching, PRs, CI/CD, Code Reviews                    |
-|                                | Web Development                   | React, Django, Flask                     | SPA, RESTful API                                       |
-|                                | Scripting                         | SQL, Bash                                |                                                        |
-| **Data Visualization**         | Data Manipulation                 | Jupyter Notebooks, NumPy, Pandas         | Data Cleaning, Wrangling, Aggregation, Filtering, Merging, Parsing & Transformation        |
-|                                | Data Presentation                 | Tableau, Power BI, Streamlit, Dash       | Data Visualization, Dashboard Design, Report Generation, Storytelling |
-| **Data Analytics**             | Exploratory Data Analysis (EDA)   | Matplotlib, Seaborn, Plot.ly             | Data Exploration                                                                             |
-|                                | Data Augmentation                 |                                          | Feature Engineering & Selection, Dimensionality Reduction, Encoding                          |
-|                                | Spatial-temporal Analysis         | ArcGIS                                   | Geospatial Analysis, Trend Analysis  |
-| **Business Intelligence**      | Business Analytics                | Business Process Model & Notation (BPMN) | SWOT Analysis, Trend Analysis, Gap Analysis, KPI Dashboards, Performance Metrics             |
-|                                | Financial & Contract Analysis     |                                          | Financial Modeling, Risk Analysis, Process Mapping and Modelling                             |
-| **Data Science**               | Statistical Analysis              | Statsmodels                   | Linear & Logistic Regression Analysis |
-|                                | Statistical inference             | SciPy                         | Hypothesis testing, T-tests, ANOVA, Chi-squared Test |
-|                                | Time Series Analysis              |                               | Time Series Analysis & Forecasting, ARIMA, Exponential Smoothing, Seasonal Decomposition    |
-| **Machine Learning**           | Predictive Modeling & evaluation  | Scikit-learn                  | Classification and Clustering Modeling, K-Means, KNN, Decision Trees, Confusion Matrix, Precision, Recall, ROC Curve         |
-|                                | Deep Learning                     | TensorFlow, Keras, PyTorch    | Supervised/Unsupervised Learning, Model Training, Cross-validation, Hyperparameter Tuning, |
-|                                | Recommender Systems               |                               | Collaborative Filtering |
-|                                | Natural Language Processing (NLP) | NLTK, SpaCy                   | Text Preprocessing, Tokenization, Lemmatization, Named Entity Recognition, Sentiment Analysis   |
-|                                | Model Deployment                  | Heroku, Docker                | Model Serving, API Development, Containerization        |
+| **Domain of Knowledge**       | **Competencies**                       | **Tools**                                    | **Techniques**                                                        |
+|-------------------------------|----------------------------------------|----------------------------------------------|-----------------------------------------------------------------------|
+| **Programming & Development** | Coding, OOP                            | Python, SQL, Java, C++                       | Debugging, Code Optimization                                          |
+|                               | Testing                                | JUnit, PyTest, Selenium, Katalon             | Test Automation, Unit & integration Testing, Test Driven Dev.         |
+|                               | Collaboration & Version Control        | Git, GitHub, GitLab                          | Branching, PRs, CI/CD, Code Reviews                                   |
+|                               | Web Development                        | React, Django, Flask                         | SPA, RESTful API                                                      |
+|                               | Scripting                              | SQL, Bash                                    | Data Entry & Automation                                               |
+| **Data Analytics & Visualization** | Data Quality & Preparation        | OpenRefine                                   | Data Validation & Cleaning                                            |
+|                               | Data Manipulation                      | Jupyter Notebooks, NumPy, Pandas             | Data Wrangling, Aggregation, Filtering, Merging & Parsing             |
+|                               | Descriptive Analytics                  | Matplotlib, Seaborn, Plot.ly                 | Exploratory Data Analysis (EDA)                                       |
+|                               | Data Presentation                      | Tableau, Power BI, Looker, Streamlit, Dash   | Dashboard & Report design, Storytelling                               |
+|                               | Data Augmentation                      |                                              | Feature Engineering & Selection, Encoding                             |
+|                               | Spatial-temporal Analysis              | ArcGIS, QGIS                                 | Geospatial Analysis, Trend Analysis                                   |
+| **Data Science**              | Statistical Analysis                   | Statsmodels                                  | Linear & Logistic Regression Analysis                                 | 
+|                               | Statistical inference                  | SciPy                                        | Hypothesis testing, T-tests, ANOVA, Chi-squared Test                  |
+|                               | Predictive Modeling & evaluation       | Scikit-learn                                 | Time Series Forecasting, ARIMA, Exponential Smoothing, Seasonal Decomposition, Confusion Matrix, Precision, Recall, ROC Curve |
+| **Machine Learning**          | Deep Learning                          | TensorFlow, Keras, PyTorch                   | Neural networks, Model Training, Cross-validation, Hyperparameter Tuning |  
+|                               | Supervised Learning                    |                                              | Classification, KNN, SVM, Naive Bayes, Random Forest, Decision Trees  |
+|                               | Unsupervised Learning                  |                                              | Clustering, K-Means, DBSCAN                                           |
+|                               | Natural Language Processing (NLP)      | NLTK, SpaCy, Hugging Face                    | Tokenization, Lemmatization, Named Entity Recognition, TF-IDF, Sentiment Analysis |
+| **Data Engineering**          | Data Mining                            | Weka, KNIME                                  | Association rule mining, Anomaly Detection, Dimensionality Reduction  |
+|                               | Data Modeling &  Management            | dbt (Data Build Tool)                        | Data Normalization, Transformation & Integration                      |
+| **Business Intelligence**     | Process Improvement                    | Lean Six Sigma, Bizagi                       | Process Mapping, Business Process Model & Notation (BPMN)             |
+| **Project Management**        | Planning and Scheduling                | MS Project, Asana, Monday.com                | WBS, Gantt Charts, CPM, PERT                                          |
+|                               | Predictive & Adaptive Methodologies    | Jira, Trello, Kanban                         | Agile & Scrum practices (sprint planning, daily standups, retrospectives) |
+|                               | Stakeholder & Change Control           | MS Teams, Slack                              | Stakeholder Analysis, Change Management                               |
+|                               | Knowledge Management                   | Confluence, SharePoint                       | Technical Documentation, Knowledge Sharing, Knowledge Base Creation   |
+
+
+<!-- I am not quite good at this:
+|                               | Model Deployment                       | Heroku, Docker                               | Model Serving, A/B testing, API Development, Containerization         |
+
+|                               | Data Pipeline Design and Orchestration | Apache Airflow                               | Batch and stream processing, monitoring and alerting                  |
+|                               | Data Mart and Warehouse                | Google BigQuery, Snowflake, AWS Redshift, Databricks | Parallell proceessing, ETL & ELT (Extract, Transform, Load)   |
+|                               | NoSQL and Relational Databases         | Cassandra, MongoDB, PostgreSQL, MySQL        | Data migration, Data partitioning                                     |
+|                               | Cloud Computing                        | AWS (EC2, S3, RDS), Google Cloud (GCP), Azure| Cloud Infrastructure Management, Cloud Storage, Cloud Security        |
+|                               | Big Data                               | Apache Hadoop, Apache Spark                  | Distributed Computing, MapReduce, Stream processing                   |
+
+|                               | Business Strategy                      |                                              | SWOT Analysis, Trend Analysis, Gap Analysis, KPI Dashboards, Performance Metrics |
+|                               | Financial & Contract Analysis          |                                              | Cost modeling, Financial Modeling, Risk Assessment, Monte Carlo       |
+-->
 
 
 
-
-
-| **Domain of Knowledge**        | **Competencies & Skills**         | **Tools**                                | **Techniques**                                         |
-|--------------------------------|-----------------------------------|------------------------------------------|--------------------------------------------------------|
-| **Project Management** | Predictive & Adaptive Methodologies               | Agile, Scrum, Lean Six Sigma                | Sprint Planning, Process Mapping, Risk Management, Work Breakdown Structure (WBS), Daily Standups, Kanban, Burndown Charts, Evaluation and Performance Metrics |
-|                        | Stakeholder Communication, Change Management      | Jira, MS Visio, Asana, Trello, Monday.com,  | Conflict Resolution, Change Management, Stakeholder Analysis |
-|                        | Technical Documentation, Knowledge Management     | Confluence, Google Docs, SharePoint         | Document Management, Knowledge Sharing, Knowledge Base Creation |
-
-
-
-
+<!-- This is a duplication
 ## ✍️ Projects
 
 ### Data Science and Data Analytics 
@@ -112,6 +121,4 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### CAD, Robotics and other hardware design at my [Website](https://luisgmaldonado.wordpress.com): .
-
-
-
+-->
