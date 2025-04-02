@@ -72,13 +72,13 @@ You can use the website to generate badges: https://shields.io/
 |                               | Spatial-temporal Analysis              | ArcGIS, QGIS                                 | Geospatial Analysis, Trend Analysis                                   |
 | **Data Science**              | Statistical Analysis                   | Statsmodels                                  | Linear & Logistic Regression Analysis                                 | 
 |                               | Statistical inference                  | SciPy                                        | Hypothesis testing, T-tests, ANOVA, Chi-squared Test                  |
-|                               | Predictive Modeling & evaluation       | Scikit-learn                                 | Time Series Forecasting, ARIMA, Exponential Smoothing, Seasonal Decomposition, Confusion Matrix, Precision, Recall, ROC Curve |
+|                               | Predictive Modeling & evaluation       | Scikit-learn                                 | Seasonal Decomposition, Confusion Matrix, Precision, Recall, ROC Curve |
 | **Machine Learning**          | Deep Learning                          | TensorFlow, Keras, PyTorch                   | Neural networks, Model Training, Cross-validation, Hyperparameter Tuning |  
 |                               | Supervised Learning                    |                                              | Classification, KNN, SVM, Naive Bayes, Random Forest, Decision Trees  |
 |                               | Unsupervised Learning                  |                                              | Clustering, K-Means, DBSCAN                                           |
 |                               | Natural Language Processing (NLP)      | NLTK, SpaCy, Hugging Face                    | Tokenization, Lemmatization, Named Entity Recognition, TF-IDF, Sentiment Analysis |
 | **Data Engineering**          | Data Mining                            | Weka, KNIME                                  | Association rule mining, Anomaly Detection, Dimensionality Reduction  |
-|                               | Data Modeling &  Management            | dbt (Data Build Tool)                        | Data Normalization, Transformation & Integration                      |
+|                               | NoSQL and Relational Databases         | MongoDB, PostgreSQL, MySQL                   | Data Modeling, Normalization, Transformation & Integration            |
 | **Business Intelligence**     | Process Improvement                    | Lean Six Sigma, Bizagi                       | Process Mapping, Business Process Model & Notation (BPMN)             |
 | **Project Management**        | Planning and Scheduling                | MS Project, Asana, Monday.com                | WBS, Gantt Charts, CPM, PERT                                          |
 |                               | Predictive & Adaptive Methodologies    | Jira, Trello, Kanban                         | Agile & Scrum practices (sprint planning, daily standups, retrospectives) |
@@ -87,11 +87,13 @@ You can use the website to generate badges: https://shields.io/
 
 
 <!-- I am not quite good at this:
+|                               | Predictive Modeling & evaluation       | Scikit-learn                                 | Time Series Forecasting, ARIMA, Exponential Smoothing, Seasonal Decomposition, Confusion Matrix, Precision, Recall, ROC Curve |
 |                               | Model Deployment                       | Heroku, Docker                               | Model Serving, A/B testing, API Development, Containerization         |
 
 |                               | Data Pipeline Design and Orchestration | Apache Airflow                               | Batch and stream processing, monitoring and alerting                  |
 |                               | Data Mart and Warehouse                | Google BigQuery, Snowflake, AWS Redshift, Databricks | Parallell proceessing, ETL & ELT (Extract, Transform, Load)   |
 |                               | NoSQL and Relational Databases         | Cassandra, MongoDB, PostgreSQL, MySQL        | Data migration, Data partitioning                                     |
+|                               | Data Modeling &  Management            | dbt (Data Build Tool)                        | Data Normalization, Transformation & Integration                      |
 |                               | Cloud Computing                        | AWS (EC2, S3, RDS), Google Cloud (GCP), Azure| Cloud Infrastructure Management, Cloud Storage, Cloud Security        |
 |                               | Big Data                               | Apache Hadoop, Apache Spark                  | Distributed Computing, MapReduce, Stream processing                   |
 
