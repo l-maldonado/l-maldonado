@@ -1,17 +1,5 @@
 <!--
 **l-maldonado/l-maldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 - [Email](mailto:@outlook.com)
 -->
 
@@ -44,70 +32,8 @@ I am Luis maldonado, I'm a mechatronics engineer with  a strong interest in data
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-
-![Python](https://img.shields.io/badge/Python-1D1F9D?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-A75FC0?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0FB088?style=flat-square&logo=c++&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-7F9C58?style=flat-square&logo=junit&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-1EA6FC?style=flat-square&logo=pytest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-7C0F93?style=flat-square&logo=selenium&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-C748F8?style=flat-square&logo=katalon&logoColor=white)
-![Git](https://img.shields.io/badge/Git-EA7ADA?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-774FB7?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-5955E6?style=flat-square&logo=gitlab&logoColor=white)  
-![React](https://img.shields.io/badge/React-2B17FF?style=flat-square&logo=react&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-0A2066?style=flat-square&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-FB69CD?style=flat-square&logo=flask&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-234A94?style=flat-square&logo=sql&logoColor=white)  
-![Bash](https://img.shields.io/badge/Bash-7844DB?style=flat-square&logo=bash&logoColor=white)
-
-
-![OpenRefine](https://img.shields.io/badge/OpenRefine-DAE259?style=flat-square&logo=openrefine&logoColor=white)  
-![Jupyter Notebooks](https://img.shields.io/badge/JupyterNotebooks-8E00FB?style=flat-square&logo=jupyternotebooks&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-CF382C?style=flat-square&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-F894CB?style=flat-square&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-698441?style=flat-square&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-7D17CB?style=flat-square&logo=seaborn&logoColor=white)  
-![Plot.ly](https://img.shields.io/badge/Plot.ly-5ED16D?style=flat-square&logo=plot.ly&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-227849?style=flat-square&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-FE63BA?style=flat-square&logo=powerbi&logoColor=white)  
-![Looker](https://img.shields.io/badge/Looker-8E01DD?style=flat-square&logo=looker&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-579263?style=flat-square&logo=streamlit&logoColor=white)  
-![Dash](https://img.shields.io/badge/Dash-581F70?style=flat-square&logo=dash&logoColor=white)  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-443666?style=flat-square&logo=arcgis&logoColor=white)  
-![QGIS](https://img.shields.io/badge/QGIS-44C25C?style=flat-square&logo=qgis&logoColor=white)  
-
-
-![Statsmodels](https://img.shields.io/badge/Statsmodels-EBC182?style=flat-square&logo=statsmodels&logoColor=white)  
-![SciPy](https://img.shields.io/badge/SciPy-F18B8D?style=flat-square&logo=scipy&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn-4432CE?style=flat-square&logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-E569E7?style=flat-square&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-5EE3C6?style=flat-square&logo=keras&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-6A9D8D?style=flat-square&logo=pytorch&logoColor=white)  
-![NLTK](https://img.shields.io/badge/NLTK-F91A9A?style=flat-square&logo=nltk&logoColor=white)  
-![SpaCy](https://img.shields.io/badge/SpaCy-FE39FC?style=flat-square&logo=spacy&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-16D3E5?style=flat-square&logo=huggingface&logoColor=white)  
-
-![Weka](https://img.shields.io/badge/Weka-2A6D36?style=flat-square&logo=weka&logoColor=white)  
-![KNIME](https://img.shields.io/badge/KNIME-542CF5?style=flat-square&logo=knime&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-672ED3?style=flat-square&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2D6E16?style=flat-square&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-284A81?style=flat-square&logo=mysql&logoColor=white)  
-
-![Lean Six Sigma](https://img.shields.io/badge/LeanSixSigma-93DFE5?style=flat-square&logo=leansixsigma&logoColor=white)  
-![Bizagi](https://img.shields.io/badge/Bizagi-9B5BBA?style=flat-square&logo=bizagi&logoColor=white)  
-![MS Project](https://img.shields.io/badge/Project-5D910A?style=flat-square&logo=msproject&logoColor=white)  
-![Asana](https://img.shields.io/badge/Asana-7D5AE4?style=flat-square&logo=asana&logoColor=white)  
-![Monday.com](https://img.shields.io/badge/Monday.com-300517?style=flat-square&logo=monday.com&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-79869B?style=flat-square&logo=jira&logoColor=white)  
-![Trello](https://img.shields.io/badge/Trello-B4528A?style=flat-square&logo=trello&logoColor=white)  
-![Kanban](https://img.shields.io/badge/Kanban-FA12EC?style=flat-square&logo=kanban&logoColor=white)  
-![MS Teams](https://img.shields.io/badge/Teams-4AFA96?style=flat-square&logo=msteams&logoColor=white)  
-![Slack](https://img.shields.io/badge/Slack-3D34C8?style=flat-square&logo=slack&logoColor=white)  
-![Confluence](https://img.shields.io/badge/Confluence-0CC840?style=flat-square&logo=confluence&logoColor=white)  
-![MS SharePoint](https://img.shields.io/badge/MSSharePoint-BD862A?style=flat-square&logo=sharepoint&logoColor=white)  
-
 -->
+
 
 <!-- Dropdown Menu
 <details>
