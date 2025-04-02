@@ -37,7 +37,7 @@ I am Luis maldonado, I'm a mechatronics engineer with  a strong interest in data
      Python!
 
 - 📫 How to reach me: 
-    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lg-maldonado)
+    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkerd&logoColor=white)](https://linkedin.com/in/lg-maldonado)
   
 
 ##  💫 Skills
@@ -105,7 +105,7 @@ You can use the website to generate badges: https://shields.io/
 ![MS Teams](https://img.shields.io/badge/Teams-4AFA96?style=flat-square&logo=msteams&logoColor=white)  
 ![Slack](https://img.shields.io/badge/Slack-3D34C8?style=flat-square&logo=slack&logoColor=white)  
 ![Confluence](https://img.shields.io/badge/Confluence-0CC840?style=flat-square&logo=confluence&logoColor=white)  
-![SharePoint](https://img.shields.io/badge/SharePoint-BD862A?style=flat-square&logo=sharepoint&logoColor=white)  
+![MS SharePoint](https://img.shields.io/badge/MSSharePoint-BD862A?style=flat-square&logo=sharepoint&logoColor=white)  
 
 -->
 
@@ -382,7 +382,7 @@ You can use the website to generate badges: https://shields.io/
       <td>Knowledge Management</td>
       <td>
             <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" alt="Confluence">
-            <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white" alt="SharePoint">
+            <img src="https://img.shields.io/badge/MS_SharePoint-0078D4?style=flat-square&logo=sharepoint&logoColor=white" alt="SharePoint">
       </td>
       <td>Technical Documentation, Knowledge Sharing, Knowledge Base Creation</td>
     </tr>
