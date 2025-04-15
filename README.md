@@ -26,6 +26,28 @@ I am Luis maldonado, I'm a mechatronics engineer with  a strong interest in data
 
 - 📫 How to reach me: 
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkerd&logoColor=white)](https://linkedin.com/in/lg-maldonado)
+
+- Some of my projects:
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+            <a href="https://github.com/l-maldonado/Nurse_Salaries_Project"><img src="https://www.datascienceportfol.io/static/profile_pics/pr0_F52F19A04C416053149A.jpg" alt="Nurse Salaries" width="400" height="130"></img></a>
+      </td>
+      <td>
+            <a href="https://github.com/l-maldonado/Sentiment-Analysis-on-Twitter-Data"><img src="https://www.datascienceportfol.io/static/profile_pics/pr1_7624F6E6945F21854567.png" alt="Sentiment Analysis" width="400" height="130"></img></a>
+      </td>
+      <td>
+            <a href="https://github.com/l-maldonado/Methodology-for-a-Suicide-Prevention-Study"><img src="https://www.datascienceportfol.io/static/profile_pics/pr2_50B6982A186BAB7C4216.png" alt="Suicide Prevention Study Methodology" width="400" height="130"></img></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
   
 
 ##  💫 Skills
