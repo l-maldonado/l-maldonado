@@ -424,7 +424,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-maldonado&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackgirlbytes&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-maldonado&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ---
