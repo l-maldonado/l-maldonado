@@ -52,8 +52,15 @@ Here are some of my projects:
 ### Data Science and Data Analytics 
 - [Recommender System demo](https://github.com/l-maldonado/team67-ptp): A dashboard for descriptive, predictive analysis and recommendation system model for a fintech company using Python, PowerBI and Dash
 
+
+- State of human resources and informality in the Surveillance and Private Security Economic Sector, 2022
+
+
 ### Data Engineering & Software Development
 - [Data pipeline 1](https://github.com/l-maldonado/Data_Pipeline_Test_SFBusiness): A simple data pipeline to gather data from an API using Mongo and Streamlit.
+
+- Pre-feasibility study on data availability and maturity for Observatory of Surveillance and Private Security, 2021
+
 
 ### CAD, Robotics and other hardware design at my [Website](https://luisgmaldonado.wordpress.com): .
 -->
