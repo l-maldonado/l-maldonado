@@ -70,7 +70,7 @@ Here are some of my projects:
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages, Libraries and Tools :
 
 <table>
   <tbody>
@@ -134,15 +134,9 @@ Here are some of my projects:
   </tbody>
 </table>
 
---- 
-
-
-###  💫 Skills
-
-
 <p align="left">
 
-  <!-- Programming Languages -->
+   Programming Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -152,8 +146,9 @@ Here are some of my projects:
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Frontend Frameworks -->
+   Frontend Frameworks -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
@@ -172,8 +167,9 @@ Here are some of my projects:
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Backend Frameworks -->
+   Backend Frameworks -->
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
@@ -189,8 +185,9 @@ Here are some of my projects:
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Databases -->
+   Databases -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
@@ -203,8 +200,9 @@ Here are some of my projects:
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Data Science / ML -->
+  Data Science / ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
@@ -223,8 +221,9 @@ Here are some of my projects:
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- DevOps & Cloud -->
+  DevOps & Cloud -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -237,8 +236,9 @@ Here are some of my projects:
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Tools -->
+   Tools -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -248,8 +248,9 @@ Here are some of my projects:
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Hardware / Embedded -->
+  Hardware / Embedded -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -259,6 +260,11 @@ Here are some of my projects:
 
 </p>
 
+
+--- 
+
+
+###  💫 Skills
 
 A more in-depth exploration of skills is published [here](https://l-maldonado.github.io/Skills.html)
 
