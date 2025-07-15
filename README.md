@@ -67,6 +67,8 @@ Here are some of my projects:
 
 --- 
 
+
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <table>
@@ -132,10 +134,11 @@ Here are some of my projects:
 </table>
 
 --- 
+-->
 
 ###  💫 Skills
 
-A more in-depth exploration of skills is published [here](https://l-maldonado.github.io/info/Skills)
+A more in-depth exploration of skills is published [here](https://l-maldonado.github.io/Skills.html)
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -201,7 +204,7 @@ You can use the website to generate badges: https://shields.io/
 
 -->
 
-<!--
+
 <table border="1">
   <thead>
     <tr>
@@ -423,7 +426,6 @@ You can use the website to generate badges: https://shields.io/
     </tr>
   </tbody>
 </table>
--->
 
 ### :fire: My Stats :
 
