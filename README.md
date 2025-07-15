@@ -68,7 +68,7 @@ Here are some of my projects:
 --- 
 
 
-<!--
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <table>
@@ -134,7 +134,7 @@ Here are some of my projects:
 </table>
 
 --- 
--->
+
 
 ###  💫 Skills
 
@@ -201,10 +201,9 @@ You can use the website to generate badges: https://shields.io/
 |                               | Business Strategy                      |                                              | SWOT Analysis, Trend Analysis, Gap Analysis, KPI Dashboards, Performance Metrics |
 |                               | Financial & Contract Analysis          |                                              | Cost modeling, Financial Modeling, Risk Assessment, Monte Carlo       |
 
-
 -->
 
-
+<!--
 <table border="1">
   <thead>
     <tr>
@@ -426,6 +425,8 @@ You can use the website to generate badges: https://shields.io/
     </tr>
   </tbody>
 </table>
+-->
+
 
 ### :fire: My Stats :
 
